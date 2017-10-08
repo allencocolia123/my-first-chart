@@ -2,18 +2,6 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <!-- 引入 ECharts 文件 -->
-    <script src="echarts.min.js"></script>
-</head>
-</html>
-<body>
-    <!-- 为 ECharts 准备一个具备大小（宽高）的 DOM -->
-    <div id="main" style="width: 600px;height:400px;"></div>
-</body>
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
     <title>ECharts</title>
     <!-- 引入 echarts.js -->
     <script src="echarts.min.js"></script>
