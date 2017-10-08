@@ -1,2 +1,2 @@
 # my-first-chart
-have a try 
+have a try, I am the best
